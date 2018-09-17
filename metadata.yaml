@@ -1,5 +1,5 @@
 _repo: Kreuzwege_52144
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Pick, Otto
@@ -10,6 +10,9 @@ contributor:
     deathdate: 1940
     gutenberg_agent_id: '40550'
     url: http://www.gutenberg.org/2009/agents/40550
+covers:
+- cover_type: archival
+  image_path: 52144-h/images/cover-page.jpg
 creator:
   author:
     agent_name: Čapek, Karel
@@ -22,6 +25,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4823
     wikipedia: http://en.wikipedia.org/wiki/Karel_Capek
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52144#Kreuzwege
 gutenberg_issued: '2016-05-23'
 gutenberg_type: Text
 identifiers:
