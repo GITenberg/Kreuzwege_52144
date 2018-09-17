@@ -1,0 +1,41 @@
+_repo: Kreuzwege_52144
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Pick, Otto
+    aliases:
+    - Novotný, Oldrich
+    - Novotny, Oldrich
+    birthdate: 1887
+    deathdate: 1940
+    gutenberg_agent_id: '40550'
+    url: http://www.gutenberg.org/2009/agents/40550
+creator:
+  author:
+    agent_name: Čapek, Karel
+    aliases:
+    - Capek, Karel
+    - Chapek, Karel
+    birthdate: 1890
+    deathdate: 1938
+    gutenberg_agent_id: '4823'
+    url: http://www.gutenberg.org/2009/agents/4823
+    wikipedia: http://en.wikipedia.org/wiki/Karel_Capek
+description: ''
+gutenberg_issued: '2016-05-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52144'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PG'
+- !lcsh 'Czech fiction -- Translations into German'
+- !lcsh 'Short stories, Czech -- Translations into German'
+- GITenberg
+tableOfContents: Stocken der Zeit -- Historie ohne Wort -- Verlorener Weg -- Die Aufschrift
+  -- Die Versuchung -- Speigelung -- Der Wartesaal -- Hilfe!
+title: Kreuzwege
+url: http://www.gutenberg.org/ebooks/52144
